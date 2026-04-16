@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayed Muhammad Ali Shah</h1>
 <h3 align="center">A passionate AI and ML Engineer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishah572" alt="alishah572" /></a> </p>
-
 - 🌱 I’m currently learning **AI and Machine Learning**
 
 - 💬 Ask me about **Python, Numpy, Pandas, Matplotlib, Sciket learn, SQL, C++, C#, Docker, Networking, OPP**
