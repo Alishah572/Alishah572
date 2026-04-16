@@ -14,5 +14,3 @@ I'm currently learning and also looking to colaborate on.
 
 ---
 [![](https://komarev.com/ghpvc/?username=Alishah572&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
